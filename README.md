@@ -1,6 +1,6 @@
 
-# AWS PROJECT REPORT
-Title: AWS Setup, IAM, Lambda, Glue, Vector Database, OpenSearch & Bedrock  
+# AWS Documentation
+Covered: AWS Setup, IAM, Lambda, Glue, Vector Database, OpenSearch & Bedrock  
 
 
 ---
